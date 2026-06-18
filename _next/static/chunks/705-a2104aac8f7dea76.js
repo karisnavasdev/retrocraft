@@ -300,7 +300,7 @@
             buttonName: "RACE TO EARN",
           },
           RETRO_STRIKE: {
-            name: "RETRO STRIKE",
+            name: "RETRO STRIKE ON SOLANA",
             icon: a,
             image: "/strike-logo.png?v=19529858",
             description:
